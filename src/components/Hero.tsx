@@ -1,7 +1,7 @@
 "use client";
 
 import React from "react";
-import { Github, Linkedin, Mail, ChevronDown, Home } from "lucide-react";
+import { Github, Linkedin, Mail, ChevronDown } from "lucide-react";
 import { motion } from "framer-motion";
 
 const Hero: React.FC = () => {
